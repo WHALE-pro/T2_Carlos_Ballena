@@ -1,0 +1,3 @@
+Evaluación 02 de Lenguaje de Programación II.
+
+Se realizan pruebas de control de cambios utilizando Working Directory, Staging Area y repositorio local con Git.

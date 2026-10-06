@@ -16,3 +16,18 @@ El proyecto representa la base de una plataforma de entrenamiento y tiene como f
 ## Evidencia T2
 
 Evaluación 02 correspondiente al Tema 3 del curso Lenguaje de Programación II, orientada a la aplicación práctica del control de versiones con Git y GitHub.
+
+
+
+## Control de cambios
+
+Durante la Evaluación 02 se realizaron modificaciones controladas para demostrar el manejo del Working Directory, Staging Area y repositorio local mediante Git.
+
+
+
+
+
+
+
+
+

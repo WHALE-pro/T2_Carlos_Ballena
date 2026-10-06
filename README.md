@@ -24,6 +24,9 @@ Evaluación 02 correspondiente al Tema 3 del curso Lenguaje de Programación II,
 Durante la Evaluación 02 se realizaron modificaciones controladas para demostrar el manejo del Working Directory, Staging Area y repositorio local mediante Git.
 
 
+## Gestión de ramas
+
+Se utilizó la rama `feature-carlos` para desarrollar de manera independiente la clase `ControlVersion_Carlos.java`, correspondiente al control de versiones del proyecto.
 
 
 
